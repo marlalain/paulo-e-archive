@@ -1,10 +1,10 @@
 # Hey, I'm [Paulo Elienay](https://pauloelienay.com).
 
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-1a1b27?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/paulo-e)
 [![Website Badge](https://img.shields.io/badge/Website-1a1b27?style=flat-square&logo=google-chrome&logoColor=white)](https://pauloelienay.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-elienay-247a19182/)
 [![Email Badge](https://img.shields.io/badge/-Email-1a1b27?logo=Gmail&&logoColor=white&style=flat-square)](https://pauloelienay.com/#contact)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1a1b27?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/elienaycodes)
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-1a1b27?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/paulo-e)
 [![Keybase Badge](https://img.shields.io/badge/-Keybase-1a1b27?style=flat-square&logo=Keybase&logoColor=white)](https://keybase.io/pauloelienay)
 ![Paulo Elienay#6263](https://img.shields.io/badge/-Discord-1a1b27?style=flat-square&logo=Discord&logoColor=white)
 
