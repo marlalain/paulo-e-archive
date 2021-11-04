@@ -6,7 +6,6 @@
 [![Email Badge](https://img.shields.io/badge/-Email-1a1b27?logo=Gmail&&logoColor=white&style=flat-square)](https://pauloelienay.com/#contact)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1a1b27?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/elienaycodes)
 [![Keybase Badge](https://img.shields.io/badge/-Keybase-1a1b27?style=flat-square&logo=Keybase&logoColor=white)](https://keybase.io/pauloelienay)
-![Paulo Elienay#6263](https://img.shields.io/badge/-Discord-1a1b27?style=flat-square&logo=Discord&logoColor=white)
 
 [![Learning: Microservices](https://img.shields.io/badge/learning-microservices-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
 [![Learning: Spring Boot](https://img.shields.io/badge/learning-spring--boot-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
