@@ -12,6 +12,8 @@
 [![Learning: Spring Security](https://img.shields.io/badge/learning-spring--security-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
 [![Learning: Redis](https://img.shields.io/badge/learning-redis-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
 [![Learning: Java 17](https://img.shields.io/badge/learning-java%2017-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
+
+
 [![Learning: LGPD](https://img.shields.io/badge/learning-LGPD-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
 [![Learning: Clean Code](https://img.shields.io/badge/learning-clean%20code-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
 
