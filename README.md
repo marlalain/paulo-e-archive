@@ -1,5 +1,6 @@
 # Hey, I'm [Paulo Elienay](https://pauloelienay.com).
 
+<!-- badges -->
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-1a1b27?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/paulo-e)
 [![Website Badge](https://img.shields.io/badge/Website-1a1b27?style=flat-square&logo=google-chrome&logoColor=white)](https://pauloelienay.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-elienay-247a19182/)
@@ -7,15 +8,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1a1b27?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/elienaycodes)
 [![Keybase Badge](https://img.shields.io/badge/-Keybase-1a1b27?style=flat-square&logo=Keybase&logoColor=white)](https://keybase.io/pauloelienay)
 
-[![Learning: Microservices](https://img.shields.io/badge/learning-microservices-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
-[![Learning: Spring Boot](https://img.shields.io/badge/learning-spring--boot-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
-[![Learning: Spring Security](https://img.shields.io/badge/learning-spring--security-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
-[![Learning: Redis](https://img.shields.io/badge/learning-redis-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
-[![Learning: Java 17](https://img.shields.io/badge/learning-java%2017-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
+<!-- learn -->
+[![Learning: Microservices](https://img.shields.io/badge/learning-microservices-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/signals)
+[![Learning: Spring Boot](https://img.shields.io/badge/learning-spring--boot-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/signals)
+[![Learning: LGPD](https://img.shields.io/badge/learning-LGPD-2b3752?style=flat-square&labelColor=3572a5)](https://secureprivacy.ai/blog/what-is-lgpd)
+[![Learning: Clean Code](https://img.shields.io/badge/reading-clean%20code%20(book)-2b3752?style=flat-square&labelColor=3572a5)](https://www.youtube.com/watch?v=7EmboKQH8lM)
 
-
-[![Learning: LGPD](https://img.shields.io/badge/learning-LGPD-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
-[![Learning: Clean Code](https://img.shields.io/badge/learning-clean%20code-1a1b27?style=flat-square&labelColor=2b3752)](https://github.com/paulo-e/signals)
+<!-- plan to learn -->
+[![Plan to Learn: Go](https://img.shields.io/badge/will%20learn-go-1a1b27?style=flat-square&labelColor=2b3752)](https://www.youtube.com/watch?v=7EmboKQH8lM)
+[![Learning: Java 17](https://img.shields.io/badge/will%20learn-java%2017-1a1b27?style=flat-square&labelColor=2b3752)](https://www.youtube.com/watch?v=m2ak1zI-M8g)
+![Plan to Learn: Kotlin](https://img.shields.io/badge/will%20learn-kotlin-1a1b27?style=flat-square&labelColor=2b3752)
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-e&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
