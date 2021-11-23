@@ -21,5 +21,5 @@
 
 <p>
   <img width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/overview.svg"/>
-  <img width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/languages.svg"/>
+  <img style="margin-left: 5%" width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/languages.svg"/>
 </p>
