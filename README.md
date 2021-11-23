@@ -20,6 +20,6 @@
 ![Plan to Learn: Kotlin](https://img.shields.io/badge/will%20learn-kotlin-1a1b27?style=flat-square&labelColor=2b3752)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-e&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-e&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/overview.svg"/>
+  <img width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/languages.svg"/>
 </p>
