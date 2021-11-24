@@ -12,6 +12,7 @@
 [![Learning: Microservices](https://img.shields.io/badge/learning-microservices-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/signals)
 [![Learning: Spring Boot](https://img.shields.io/badge/learning-spring--boot-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/signals)
 [![Learning: LGPD](https://img.shields.io/badge/learning-LGPD-2b3752?style=flat-square&labelColor=3572a5)](https://secureprivacy.ai/blog/what-is-lgpd)
+[![Learning: JUnit](https://img.shields.io/badge/learning-JUnit-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/slinky)
 [![Learning: Clean Code](https://img.shields.io/badge/reading-clean%20code%20(book)-2b3752?style=flat-square&labelColor=3572a5)](https://www.youtube.com/watch?v=7EmboKQH8lM)
 
 <!-- plan to learn -->
