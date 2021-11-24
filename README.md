@@ -1,4 +1,4 @@
-# Hey, I'm [Paulo Elienay](https://pauloelienay.com).
+# Hey, I'm [Paulo Elienay](https://pauloelienay.com). Click on a badge to see more!
 
 <!-- badges -->
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-1a1b27?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/paulo-e)
