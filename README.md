@@ -1,5 +1,7 @@
 # Hey, I'm [Paulo Elienay](https://pauloelienay.com). Click on a badge to see more!
 
+**My keyboard (Keychron K2 V2) finally arrived! I'm back to coding open-source projects again!** <br /> <br />
+
 <!-- badges -->
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-1a1b27?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/paulo-e)
 [![Website Badge](https://img.shields.io/badge/Website-1a1b27?style=flat-square&logo=google-chrome&logoColor=white)](https://pauloelienay.com)
