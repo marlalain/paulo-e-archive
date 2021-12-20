@@ -18,7 +18,7 @@
 [![Learning: Kotlin](https://img.shields.io/badge/learning-kotlin-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/z-front)
 
 <!-- plan to learn -->
-[![Plan to Learn: Go](https://img.shields.io/badge/will%20learn-go-1a1b27?style=flat-square&labelColor=2b3752)](https://www.youtube.com/watch?v=7EmboKQH8lM)
+![Plan to Learn: Go](https://img.shields.io/badge/will%20learn-go-1a1b27?style=flat-square&labelColor=2b3752)
 [![Learning: Java 17](https://img.shields.io/badge/will%20learn-java%2017-1a1b27?style=flat-square&labelColor=2b3752)](https://www.youtube.com/watch?v=m2ak1zI-M8g)
 
 <p>
