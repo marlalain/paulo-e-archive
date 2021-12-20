@@ -1,6 +1,6 @@
-# Hey, I'm [Paulo Elienay](https://pauloelienay.com). Click on a badge to see more!
+<div align="center">
 
-**My keyboard (Keychron K2 V2) finally arrived! I'm back to coding open-source projects again!** <br /> <br />
+# Hey, I'm [Paulo Elienay](https://pauloelienay.com). Click on a badge to see more
 
 <!-- badges -->
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-1a1b27?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/paulo-e)
@@ -21,8 +21,9 @@
 [![Plan to Learn: Go](https://img.shields.io/badge/will%20learn-go-1a1b27?style=flat-square&labelColor=2b3752)](https://www.youtube.com/watch?v=7EmboKQH8lM)
 [![Learning: Java 17](https://img.shields.io/badge/will%20learn-java%2017-1a1b27?style=flat-square&labelColor=2b3752)](https://www.youtube.com/watch?v=m2ak1zI-M8g)
 
-
 <p>
   <img width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/overview.svg"/>
   <img style="margin-left: 5%" width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/languages.svg"/>
 </p>
+
+</div>
