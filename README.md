@@ -3,7 +3,7 @@
 # Hey, I'm [Paulo Elienay](https://pauloelienay.com). Click on a badge to see more
 
 <!-- badges -->
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-1a1b27?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/paulo-e)
+[![Gitlab Badge](https://img.shields.io/badge/-GitLab-1a1b27?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/paulo-e)
 [![Website Badge](https://img.shields.io/badge/Website-1a1b27?style=flat-square&logo=google-chrome&logoColor=white)](https://pauloelienay.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-elienay-247a19182/)
 [![Email Badge](https://img.shields.io/badge/-Email-1a1b27?logo=Gmail&&logoColor=white&style=flat-square)](https://pauloelienay.com/#contact)
