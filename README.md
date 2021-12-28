@@ -11,15 +11,10 @@
 [![Keybase Badge](https://img.shields.io/badge/-Keybase-1a1b27?style=flat-square&logo=Keybase&logoColor=white)](https://keybase.io/pauloelienay)
 
 <!-- learn -->
-[![Learning: Microservices](https://img.shields.io/badge/learning-microservices-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/signals)
-[![Learning: Spring Boot](https://img.shields.io/badge/learning-spring--boot-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/signals)
-[![Learning: CI/CD](https://img.shields.io/badge/learning-CI/CD-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/slinky)
 [![Learning: Clean Code](https://img.shields.io/badge/reading-clean%20code%20(book)-2b3752?style=flat-square&labelColor=3572a5)](https://www.youtube.com/watch?v=7EmboKQH8lM)
-[![Learning: Kotlin](https://img.shields.io/badge/learning-kotlin-2b3752?style=flat-square&labelColor=3572a5)](https://github.com/paulo-e/z-front)
-
+  [![Learning: Go](https://img.shields.io/badge/learning-go-2b3752?style=flat-square&labelColor=3572a5)](https://www.youtube.com/watch?v=7EmboKQH8lM)
+  
 <!-- plan to learn -->
-![Plan to Learn: Go](https://img.shields.io/badge/will%20learn-go-1a1b27?style=flat-square&labelColor=2b3752)
-[![Learning: Java 17](https://img.shields.io/badge/will%20learn-java%2017-1a1b27?style=flat-square&labelColor=2b3752)](https://www.youtube.com/watch?v=m2ak1zI-M8g)
 
 <p>
   <img width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/overview.svg"/>
