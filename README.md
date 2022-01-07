@@ -14,6 +14,7 @@
 [![Learning: Clean Code](https://img.shields.io/badge/reading-clean%20code%20(book)-2b3752?style=flat-square&labelColor=3572a5)](https://www.youtube.com/watch?v=7EmboKQH8lM)
 ![Learning: Go](https://img.shields.io/badge/learning-go-2b3752?style=flat-square&labelColor=3572a5)
 ![Learning: gRPC](https://img.shields.io/badge/learning-gRPC-2b3752?style=flat-square&labelColor=3572a5)
+![Learning: Scala](https://img.shields.io/badge/learning-scala-2b3752?style=flat-square&labelColor=3572a5)
   
 <!-- plan to learn -->
 
