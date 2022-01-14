@@ -21,6 +21,7 @@
 <p>
   <img width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/overview.svg"/>
   <img style="margin-left: 5%" width="40%" src="https://github.com/paulo-e/github-stats/blob/master/generated/languages.svg"/>
+  <img style="margin-left: 5%" width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=paulo-e&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 </div>
