@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-1a1b27?style=flat-square&logo=google-chrome&logoColor=white)](https://pauloelienay.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-elienay-247a19182/)
 [![Email Badge](https://img.shields.io/badge/-Email-1a1b27?logo=Gmail&&logoColor=white&style=flat-square)](https://pauloelienay.com/#contact)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1a1b27?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/elienaycodes)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1a1b27?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pauloelienay)
 [![Keybase Badge](https://img.shields.io/badge/-Keybase-1a1b27?style=flat-square&logo=Keybase&logoColor=white)](https://keybase.io/pauloelienay)
 
 <!-- learn -->
